@@ -1,0 +1,8 @@
+// css を本ファイルで一括管理する
+//foundation
+@use 'foundation/base';
+@use 'foundation/variable';
+@use 'foundation/mixin';
+
+// layout
+@use 'layout/main';
